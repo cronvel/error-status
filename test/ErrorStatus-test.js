@@ -41,4 +41,5 @@ var expect = require( 'expect.js' ) ;
 describe( "Take time..." , function() {
 	
 	it( "... to write some tests..." ) ;
+	//console.log( ErrorStatus.notFound() ) ;
 } ) ;
