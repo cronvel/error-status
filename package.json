@@ -1,6 +1,6 @@
 {
   "name": "error-status",
-  "version": "1.3.0",
+  "version": "1.4.0",
   "description": "HTTP-compatible error status.",
   "main": "lib/ErrorStatus.js",
   "directories": {
