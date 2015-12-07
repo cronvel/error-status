@@ -1,6 +1,6 @@
 {
   "name": "error-status",
-  "version": "1.5.0",
+  "version": "1.6.0",
   "description": "HTTP-compatible error status.",
   "main": "lib/ErrorStatus.js",
   "directories": {
@@ -13,7 +13,7 @@
     "mocha": "^1.21.4"
   },
   "scripts": {
-    "test": "mocha"
+    "test": "mocha -R dot"
   },
   "repository": {
     "type": "git",
