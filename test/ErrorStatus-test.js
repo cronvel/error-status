@@ -29,8 +29,7 @@
 
 
 
-var ErrorStatus = require( '../lib/ErrorStatus.js' ) ;
-var expect = require( 'expect.js' ) ;
+var ErrorStatus = require( '..' ) ;
 
 
 
