@@ -1,6 +1,6 @@
 {
   "name": "error-status",
-  "version": "1.9.2",
+  "version": "1.9.3",
   "description": "HTTP-compatible error status.",
   "main": "lib/ErrorStatus.js",
   "directories": {
@@ -24,5 +24,13 @@
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/cronvel/error-status/issues"
+  },
+  "copyright": {
+    "title": "Error Status",
+    "years": [
+      2015,
+      2019
+    ],
+    "owner": "Cédric Ronvel"
   }
 }
