@@ -1,0 +1,7 @@
+
+v1.10.0
+-------
+
+New: escape HTTP header value for 'message' (but assume 'code', 'type' and 'at' are safe)
+
+
