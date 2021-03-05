@@ -1,6 +1,6 @@
 {
   "name": "error-status",
-  "version": "1.10.0",
+  "version": "1.11.0",
   "description": "HTTP-compatible error status.",
   "main": "lib/ErrorStatus.js",
   "directories": {
@@ -29,7 +29,7 @@
     "title": "Error Status",
     "years": [
       2015,
-      2019
+      2021
     ],
     "owner": "Cédric Ronvel"
   }

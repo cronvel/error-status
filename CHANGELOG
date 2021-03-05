@@ -1,4 +1,10 @@
 
+v1.11.0
+-------
+
+Fix API, now using error.from instead of error.error
+
+
 v1.10.0
 -------
 
