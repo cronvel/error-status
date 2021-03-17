@@ -13,6 +13,7 @@ build
 _build
 _templates
 _static
+package-lock.json
 
 
 # gitignore / Node.gitignore #
